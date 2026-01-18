@@ -4,7 +4,7 @@ const port = 3000;
 
 // Simple endpoint
 app.get('/', (req, res) => {
-  res.send('Hello World! Version 1');
+  res.send('Hello World! Version 2');
 });
 
 // Another endpoint to test changes
